@@ -2,7 +2,7 @@
 
 # Gridder
 
-A mobile app built with Flutter and love that allows artists to add customizable grid lines on images.
+An iOS app built with Flutter and love that allows artists to add customizable grid lines on images.
 
 ## Features
 
