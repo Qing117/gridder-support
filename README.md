@@ -2,17 +2,17 @@
 
 # Gridder
 
-A mobile app built with Flutter that allows artists to overlay customizable grid lines on images.
+A mobile app built with Flutter and love that allows artists to add customizable grid lines on images.
 
 ## Features
 
 - Pick an image from your device
 - Add a grid overlay with custom:
   - Number of rows and columns
-  - Line boldness (stroke width)
+  - Line boldness 
   - Opacity
-  - Color (from swatches or full spectrum)
+  - Color
 - Preview before saving
 - Export the image with the grid overlay to your photo gallery
 
-Contact the developer at yanqing117@gmail.com
+Contact the developer at: yanqing117@gmail.com
